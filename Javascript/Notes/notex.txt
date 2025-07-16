@@ -1,0 +1,18 @@
+Javascript Variables and Datatypes - 
+https://docs.google.com/document/d/1YnFReQ9KIMVtsYUiPhWDcDIhD7wNgpGrOpOHhhSrQu0/edit?tab=t.0
+
+
+JavaScript Operators & Looping - 
+https://docs.google.com/document/d/1YnFReQ9KIMVtsYUiPhWDcDIhD7wNgpGrOpOHhhSrQu0/edit?tab=t.0
+
+
+JavaScript Strings , Numbers & Functions
+https://docs.google.com/document/d/1wcRIXZ4G6yDX82rv3eJB0egU9IOnhStZOKt85Jthb1I/edit?tab=t.0
+
+
+JavaScript  Global Execution Context & Hoisting
+https://docs.google.com/document/d/1p0V21UWdnQAQ77hKUOuLNBGVPNlkd8r3b_Bi0fwh-Rg/edit?tab=t.0
+
+
+JavaScript Scopes & Closures
+https://docs.google.com/document/d/1KofL4R1S0nXVD5zLaDarwpKksf2ehPTGWu9N3BBsM1g/edit?tab=t.0

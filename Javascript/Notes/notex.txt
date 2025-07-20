@@ -16,3 +16,7 @@ https://docs.google.com/document/d/1p0V21UWdnQAQ77hKUOuLNBGVPNlkd8r3b_Bi0fwh-Rg/
 
 JavaScript Scopes & Closures
 https://docs.google.com/document/d/1KofL4R1S0nXVD5zLaDarwpKksf2ehPTGWu9N3BBsM1g/edit?tab=t.0
+
+
+JavaScript Arrays and Higher Order Functions
+https://docs.google.com/document/d/1IdeucW12lLO4nKUFV9XxYouKOnDjoC2ymLenoI0CC2E/edit?tab=t.0#heading=h.4jvfsari3u4h

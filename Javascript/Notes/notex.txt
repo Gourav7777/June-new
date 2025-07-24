@@ -20,3 +20,7 @@ https://docs.google.com/document/d/1KofL4R1S0nXVD5zLaDarwpKksf2ehPTGWu9N3BBsM1g/
 
 JavaScript Arrays and Higher Order Functions
 https://docs.google.com/document/d/1IdeucW12lLO4nKUFV9XxYouKOnDjoC2ymLenoI0CC2E/edit?tab=t.0#heading=h.4jvfsari3u4h
+
+
+Objects Classes & Prototypes
+https://docs.google.com/document/d/1RBcINH7fK7e3id15iOokaK_lwLeBD7l6SSRi9r68cP8/edit?tab=t.0

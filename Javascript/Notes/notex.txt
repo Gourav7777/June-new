@@ -24,3 +24,23 @@ https://docs.google.com/document/d/1IdeucW12lLO4nKUFV9XxYouKOnDjoC2ymLenoI0CC2E/
 
 Objects Classes & Prototypes
 https://docs.google.com/document/d/1RBcINH7fK7e3id15iOokaK_lwLeBD7l6SSRi9r68cP8/edit?tab=t.0
+
+ 
+ 	
+this keyword
+https://docs.google.com/document/d/1s5pbCXEAc0TPh9qobzCFvz-swZ_RjEsKIwZCdq_LdHU/edit?tab=t.0
+
+Introduction to Asynchronous JavaScript
+https://docs.google.com/document/d/1QI5sVLKWIzvz_EWxAKOINcTu53qo1yUCw3scUmLC2Rw/edit?tab=t.0#heading=h.6fui10ctqvpn
+
+
+Asynchronous JavaScript - II
+https://docs.google.com/document/d/1HFUNkisP1KCztycw9AbJUOGH8kipEWMm/edit?tab=t.0
+
+
+Asynchronous JavaScript - III
+https://docs.google.com/document/d/1MuvadIWzNwvLUW51gjslNKj4TOnl9tJc/edit?tab=t.0
+
+
+Intro to DOM & DOM Concepts
+https://docs.google.com/document/d/1xSadgyI3jHUF7eHqvZaAQhh74RhH_Llr/edit?tab=t.0
